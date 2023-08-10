@@ -48,15 +48,10 @@ It's important to note that while a Laravel blog template can provide a solid fo
 
 
 <div class='install-script'>
-  <h3>How to Install</h3>
-   <hr>
-  <ul>
- <li>Create a database name (pro_usermanagent)</li>
- <li>Import database file (pro_usermanagent.sql)</li>
- <li>Admin:Info</li>
- <li>Admin username: nababurdev@gmail.com</li>
- <li>Admin pass: An123456</li>
- <li><a href='https://youtu.be/Q-JQsoDwxgI'>Live video a Youtube</a></li>
+ <li><code>php artisan migrate:fresh --seed</code></li>
+ <li>Admin username: nababur</li>
+ <li>Admin pass: nababur</li>
+ 
  
 
 </ul>
