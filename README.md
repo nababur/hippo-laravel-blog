@@ -58,7 +58,11 @@ It's important to note that while a Laravel blog template can provide a solid fo
 
 <h3>Author</h3>
 <span>Nababur Rahaman</span>
+
+
+
 <ul>
+    <li><a href='https://www.youtube.com/watch?v=_itQJ2gM5T4&t=45s'>Live video url</a></li>
   <li><a href='https://github.com/nababur'>Author profile</a></li>
   <li><a href='mailto:nababurdev@gmail.com'>For any support or project email me nababurdev@gmail.com</a></li>
   
