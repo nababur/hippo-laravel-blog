@@ -1,66 +1,79 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<h1>Hippo Laravel blog template  </h1>
+<div class="script-details">
+<p>"Hippo" is a term not widely recognized as a Laravel blog template or related software as of my last knowledge update in September 2021. It's possible that it's a product or project that has emerged after that time or it might be a term used in a specific context that isn't part of my training data.</p>
+
+<p>However, I can provide you with general information about what a Laravel blog template might entail:</p>
+
+<p>A Laravel blog template would likely be a pre-designed and pre-coded starting point for creating a blog website using the Laravel PHP framework. Laravel is a popular open-source PHP web application framework known for its elegant syntax and developer-friendly features. A blog template built with Laravel could offer various components and features to accelerate the development process of a blog or content-focused website.</p>
+
+Here are some features and components you might expect to find in a Laravel blog template:
+
+1. **Authentication and User Management**: A template could include user authentication, registration, and management functionality. This is essential for allowing authors and administrators to manage blog content.
+
+2. **Post Management**: The template might offer CRUD (Create, Read, Update, Delete) operations for blog posts. Authors can create, edit, and delete posts, and visitors can view them.
+
+3. **Categories and Tags**: A template could support categorizing blog posts into different topics or sections using categories and tags. This helps in organizing and navigating content.
+
+4. **Commenting System**: Including a commenting system would allow readers to interact with blog posts by leaving comments. This feature can enhance engagement and discussion.
+
+5. **Frontend UI**: A well-designed user interface (UI) is important for a blog template. It could feature responsive design, typography, and layout components for presenting blog posts in an appealing manner.
+
+6. **Search and Filtering**: A search functionality and filtering options based on categories, tags, and dates could be included to help users easily find specific content.
+
+7. **Pagination**: If there are many blog posts, pagination helps in splitting content across multiple pages for better user experience.
+
+8. **Image and Media Handling**: The template might provide functionality for uploading and displaying images and other media within blog posts.
+
+9. **SEO Optimization**: SEO-friendly URLs, meta tags, and other optimizations could be part of the template to improve the blog's visibility in search engines.
+
+10. **Customization Options**: The template might offer ways to customize the design, layout, and colors to match the branding and preferences of the website owner.
+
+11. **Security**: Built-in security features, such as data validation and protection against common vulnerabilities, would be important for any web application.
+
+It's important to note that while a Laravel blog template can provide a solid foundation, developers might need to modify and extend it to meet the specific requirements of their project. If "Hippo" has emerged as a Laravel blog template after September 2021, I recommend checking relevant online resources, repositories, and developer communities for the most up-to-date information and documentation.
+
+<h3>Script Thumbnails::-</h3>
+ <hr>
+ 
+![2023-08-10_163629](https://github.com/nababur/hippo-laravel-blog/assets/8381528/24983185-e30d-497f-a9e0-1b9962414b3e)
+![2023-08-10_163826](https://github.com/nababur/hippo-laravel-blog/assets/8381528/c487e8bc-699a-4048-82a0-48b2d45519e5)
+![register](https://github.com/nababur/hippo-laravel-blog/assets/8381528/9466baeb-fa1b-4820-9bfc-de9e7d1b8aeb)
+![2023-08-10_163744](https://github.com/nababur/hippo-laravel-blog/assets/8381528/8aa6d7c0-8c44-493d-b225-8e576adfba28)
+![2023-08-10_163800](https://github.com/nababur/hippo-laravel-blog/assets/8381528/e616478e-3d03-41a2-9ff4-830e4d7bbb08)
+![2023-08-10_163921](https://github.com/nababur/hippo-laravel-blog/assets/8381528/a46454c8-a3d5-4a4d-93be-2f374e2cb4e2)
+![2023-08-10_164021](https://github.com/nababur/hippo-laravel-blog/assets/8381528/510f0465-19d7-4be3-8012-9829239bfb01)
+
+
+
+
+<div class='install-script'>
+  <h3>How to Install</h3>
+   <hr>
+  <ul>
+ <li>Create a database name (pro_usermanagent)</li>
+ <li>Import database file (pro_usermanagent.sql)</li>
+ <li>Admin:Info</li>
+ <li>Admin username: nababurdev@gmail.com</li>
+ <li>Admin pass: An123456</li>
+ <li><a href='https://youtu.be/Q-JQsoDwxgI'>Live video a Youtube</a></li>
+ 
+
+</ul>
+
+<h3>Author</h3>
+<span>Nababur Rahaman</span>
+<ul>
+  <li><a href='https://github.com/nababur'>Author profile</a></li>
+  <li><a href='mailto:nababurdev@gmail.com'>For any support or project email me nababurdev@gmail.com</a></li>
+  
+</ul>
+<h4>Buy me a coffee :) </h4>
+<p dir="auto">
+  <a href="https://www.buymeacoffee.com/nababur" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="Buy Me A Coffee" width="195" height="55" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;">
+  </a>
 </p>
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<h4>Happy Open Source....</h4>
+</div>
